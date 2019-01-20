@@ -97,7 +97,7 @@
 
 
   * `x64/Release/data/img`폴더의 `air4.txt` - 비행기가 포함된 air4.jpg 이미지상의 개체(비행기 이미지)의 좌표를 가진다(class=0)
-
+<p align="center"><img width="70%" src="./images/yolo_mark_air.jpg" /></p>
 
 
 
